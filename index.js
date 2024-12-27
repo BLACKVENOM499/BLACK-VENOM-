@@ -66,8 +66,8 @@ if (path.extname(plugin).toLowerCase() == ".js") {
 require("./plugins/" + plugin);
 }
 });
-console.log('Plugins installed successful âœ…')
-console.log('Bot connected to whatsapp âœ…')
+console.log('Plugins installed successful ✅')
+console.log('Bot connected to whatsapp ✅')
 
 let up = `BLACK VENOM connected successful ✅…\n\nPREFIX: ${prefix}`;
 
