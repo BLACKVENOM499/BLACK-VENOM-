@@ -1,5 +1,5 @@
 # BLACK-VENOM
-💕🥰ꜱʀɪ-ʟᴀɴᴋᴀɴ ᴍᴏꜱᴛ ꜱᴘᴇᴇᴅ &amp; ʙᴇꜱᴛ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ.✨🌷 ᴛʜɪꜱ ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ɪꜱ ᴀᴋɪɴᴅᴜ.💝 (ᴀᴋɪɴᴅᴜ - ᴍᴅ )🌹
+💕🥰ꜱʀɪ-ʟᴀɴᴋᴀɴ ᴍᴏꜱᴛ ꜱᴘᴇᴇᴅ &amp; ʙᴇꜱᴛ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ.✨🌷 ᴛʜɪꜱ ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ɪꜱ ᴀᴋɪɴᴅᴜ.💝 (ᴀᴋɪɴᴅᴜ - ᴍᴅ ) 🧬
 
 𝐁𝐋𝐀𝐂𝐊 𝐕𝐄𝐍𝐎𝐌 𝐕 1.0.0
 
@@ -17,9 +17,7 @@
   <h3 align="center"> 🧬 Black Venom V1 Bot 🇱🇰 </h3>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?line=;SRI+LANKAS+BEST+WHATSAPP +BOT!;Create+By+AKINDU+🧬!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="ALLWAYS - ʙʟᴀᴄᴋ ᴠᴇɴᴏᴍ ᴠ1 ✅ SVG">
-</p>
+
 
 
 [![BLACK VENOM](https://img.shields.io/badge/black_venom_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
