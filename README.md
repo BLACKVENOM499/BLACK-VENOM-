@@ -5,7 +5,6 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=B&pause=1000&color=0061F7&background=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump" alt="Typing SVG" /></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=B&pause=1000&color=0061F7&background=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
 
