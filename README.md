@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;SRI+LANKAS+BEST+WHATSAPP +BOT!;Create+By+AKINDU+🧬!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="ALLWAYS - ʙʟᴀᴄᴋ ᴠᴇɴᴏᴍ ᴠ1 ✅ SVG">
+  <img src="https://readme-typing-svg.demolab.com/?line=;SRI+LANKAS+BEST+WHATSAPP +BOT!;Create+By+AKINDU+🧬!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="ALLWAYS - ʙʟᴀᴄᴋ ᴠᴇɴᴏᴍ ᴠ1 ✅ SVG">
 </p>
 
 
