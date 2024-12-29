@@ -1,9 +1,11 @@
-<b># BLACK-VENOM<b>
-💕ꜱʀɪ-ʟᴀɴᴋᴀɴ ᴍᴏꜱᴛ ꜱᴘᴇᴇᴅ &amp; ʙᴇꜱᴛ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ.✨ ᴛʜɪꜱ ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ɪꜱ ᴀᴋɪɴᴅᴜ.🧬⚡ (ᴀᴋɪɴᴅᴜ - ᴍᴅ ) 🧑‍💻
+🌟<b>BLACK-VENOM<b>
+
+
+🌟ꜱʀɪ-ʟᴀɴᴋᴀɴ ᴍᴏꜱᴛ ꜱᴘᴇᴇᴅ &amp; ʙᴇꜱᴛ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ.✨ ᴛʜɪꜱ ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ ɪꜱ ᴀᴋɪɴᴅᴜ.🧬⚡ (ᴀᴋɪɴᴅᴜ - ᴍᴅ ) 🧑‍💻
 
 <hr>
 
-𝐁𝐋𝐀𝐂𝐊 𝐕𝐄𝐍𝐎𝐌 𝐕 1.0.0
+🌟𝐁𝐋𝐀𝐂𝐊 𝐕𝐄𝐍𝐎𝐌 𝐕 1.0.0
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&vCenter=true&multiline=true&random=true&width=435&lines=%F0%9D%97%95%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%96%F0%9D%97%9E+%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A2%F0%9D%97%A0+%F0%9D%97%96%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%97+%F0%9D%97%95%F0%9D%97%AC+%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%97%F0%9D%97%A8+%F0%9F%A7%AC)](https://git.io/typing-svg)
@@ -11,7 +13,7 @@
 <hr>
 
 
-<b>𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗 𝗩𝗜𝗔 𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘</b>
+🌟<b>𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗 𝗩𝗜𝗔 𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘👇</b>
  
 
 <a href='https://democratic-sharity-pavi-49f33087.koyeb.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
@@ -20,7 +22,7 @@
 
 
 <!-- markdownlint-disable MD033 MD041 -->
-<p align="center">
+🌟<p align="center">
   <h3 align="center"> 🧬 Black Venom V1 Bot 🇱🇰 </h3>
 </p>
 
@@ -30,7 +32,7 @@
 
 <hr>
 
-<b>𝗕𝗢𝗧 𝗗𝗜𝗣𝗟𝗢𝗬 𝗩𝗜𝗔 𝗞𝗢𝗬𝗘𝗕<b>
+🌟<b>𝗕𝗢𝗧 𝗗𝗜𝗣𝗟𝗢𝗬 𝗩𝗜𝗔 𝗞𝗢𝗬𝗘𝗕<b>👇
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=1&repository=BLACKVENOM499%2F-1&branch=main&instance_type=free)
 
