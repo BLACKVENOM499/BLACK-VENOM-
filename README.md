@@ -27,7 +27,6 @@ https://democratic-sharity-pavi-49f33087.koyeb.app/
 <b>GET SESSION ID VIA PAIR CODE 01</b>
 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=1&repository=BLACKVENOM499%2F-1&branch=main&instance_type=free)
 
 
 
@@ -39,6 +38,11 @@ https://democratic-sharity-pavi-49f33087.koyeb.app/
 [![BLACK VENOM](https://img.shields.io/badge/black_venom__deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
    
 [![BLACK VENOM](https://img.shields.io/badge/black_venom__deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
+
+<hr>
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=1&repository=BLACKVENOM499%2F-1&branch=main&instance_type=free)
+
 
 <hr>
 
