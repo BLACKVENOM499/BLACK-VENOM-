@@ -12,7 +12,8 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=BLACK+VENOM+V1+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
 
 
-https://democratic-sharity-pavi-49f33087.koyeb.app/
+<a href='https://democratic-sharity-pavi-49f33087.koyeb.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-white?style=for-the-badge&logo=opencv&logoColor=black'/></a>
+
 
 
 <!-- markdownlint-disable MD033 MD041 -->
