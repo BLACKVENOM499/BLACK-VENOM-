@@ -22,8 +22,8 @@
 
 
 <!-- markdownlint-disable MD033 MD041 -->
-<p align="center">
-  <h3 align="center"> 🧬 Black Venom V1 Bot 🇱🇰 </h3>
+<b><p align="center">
+  <h3 align="center"> 🧬 Black Venom V1 Bot 🇱🇰 </h3><b>
 </p>
 
 
