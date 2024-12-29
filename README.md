@@ -26,10 +26,12 @@
 <hr>
 <b>GET SESSION ID VIA PAIR CODE 01</b>
 
-<a href='https://replit.com/@blackvenomx499/SESSION-GENERATOR#README.md' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=1&repository=BLACKVENOM499%2F-1&branch=main&instance_type=free)
 
 
-<hr>
+
+<hr> 
 
 
 [![BLACK VENOM](https://img.shields.io/badge/black_venom_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
