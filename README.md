@@ -8,10 +8,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&vCenter=true&multiline=true&random=true&width=435&lines=%F0%9D%97%95%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%96%F0%9D%97%9E+%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A2%F0%9D%97%A0+%F0%9D%97%96%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%97+%F0%9D%97%95%F0%9D%97%AC+%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%97%F0%9D%97%A8+%F0%9F%A7%AC)](https://git.io/typing-svg)
 
+<hr>
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=BLACK+VENOM+V1+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
-
+<b>GET SESSION ID VIA PAIR CODE 01</b>
+ 
 
 <a href='https://democratic-sharity-pavi-49f33087.koyeb.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
