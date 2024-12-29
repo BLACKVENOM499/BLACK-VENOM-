@@ -5,6 +5,8 @@
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=B&pause=1000&color=white&background=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=THE+VENOM+MD+CREATED+BY+AKINDU;Please+Don't+Change+Anything+Here+❤️)](https://git.io/typing-svg)
 
