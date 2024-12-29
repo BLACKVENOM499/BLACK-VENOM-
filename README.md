@@ -16,19 +16,13 @@
 
 <a href='https://democratic-sharity-pavi-49f33087.koyeb.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
+<hr>
 
 
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
   <h3 align="center"> 🧬 Black Venom V1 Bot 🇱🇰 </h3>
 </p>
-
-
-
-
-<hr>
-<b>GET SESSION ID VIA PAIR CODE 01</b>
-
 
 
 <img src="https://i.ibb.co/3pp4BwB/5451.jpg" height="90" width="100%">
