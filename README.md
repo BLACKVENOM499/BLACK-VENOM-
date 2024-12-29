@@ -6,7 +6,7 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=B&pause=1000&color=0061F7&background=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=THE+VENOM+MD+CREATED+BY+AKINDU;Please+Don't+Change+Anything+Here+❤️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=B&pause=1000&color=white&background=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=THE+VENOM+MD+CREATED+BY+AKINDU;Please+Don't+Change+Anything+Here+❤️)](https://git.io/typing-svg)
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=BLACK+VENOM+V1+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
