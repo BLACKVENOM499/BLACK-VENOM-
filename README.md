@@ -28,15 +28,6 @@
 <img src="https://i.ibb.co/3pp4BwB/5451.jpg" height="90" width="100%">
 
 
-<hr> 
-
-
-[![BLACK VENOM](https://img.shields.io/badge/black_venom_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
-   
-[![BLACK VENOM](https://img.shields.io/badge/black_venom__deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
-   
-[![BLACK VENOM](https://img.shields.io/badge/black_venom__deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
-
 <hr>
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=1&repository=BLACKVENOM499%2F-1&branch=main&instance_type=free)
