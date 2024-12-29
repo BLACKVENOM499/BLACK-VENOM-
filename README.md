@@ -20,11 +20,9 @@
 
 <hr>
 
+ 
+ <b>🧬 Black Venom V1 Bot 🇱🇰 <b>
 
-<!-- markdownlint-disable MD033 MD041 -->
-<b><p align="center">
-  <h3 align="center"> 🧬 Black Venom V1 Bot 🇱🇰 </h3>
-</p><b>
 
 
 <img src="https://i.ibb.co/3pp4BwB/5451.jpg" height="90" width="100%">
