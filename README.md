@@ -11,7 +11,7 @@
 <hr>
 
 
-<b>GET SESSION ID VIA PAIR CODE 01</b>
+<b>𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗 𝗩𝗜𝗔 𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘</b>
  
 
 <a href='https://democratic-sharity-pavi-49f33087.koyeb.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
@@ -29,6 +29,8 @@
 
 
 <hr>
+
+<b>𝗕𝗢𝗧 𝗗𝗜𝗣𝗟𝗢𝗬 𝗩𝗜𝗔 𝗞𝗢𝗬𝗘𝗕<b>
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=1&repository=BLACKVENOM499%2F-1&branch=main&instance_type=free)
 
