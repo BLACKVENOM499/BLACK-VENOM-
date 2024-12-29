@@ -7,8 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Black+Venom+V1;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗕𝗬+𝗔𝗞𝗜𝗡𝗗𝗨)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&vCenter=true&multiline=true&random=true&width=435&lines=%F0%9D%97%95%F0%9D%97%9F%F0%9D%97%94%F0%9D%97%96%F0%9D%97%9E+%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%A1%F0%9D%97%A2%F0%9D%97%A0+%F0%9D%97%96%F0%9D%97%A5%F0%9D%97%98%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%97+%F0%9D%97%95%F0%9D%97%AC+%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%97%F0%9D%97%A8+%F0%9F%A7%AC)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=B&pause=1000&color=white&background=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=THE+VENOM+MD+CREATED+BY+AKINDU;Please+Don't+Change+Anything+Here+❤️)](https://git.io/typing-svg)
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=BLACK+VENOM+V1+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
