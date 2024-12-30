@@ -41,6 +41,7 @@
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=1&repository=BLACKVENOM499%2F-1&branch=main&instance_type=free)
 
 
+[![Deploy to replit](https://www.replit.com/static/images/deploy/button.svg)](https://replit.com/@blackvenomx499/BLACK-VENOM-V1)
 <hr>
 
 <b>COPY WORKFLOW CODE</b></br>
