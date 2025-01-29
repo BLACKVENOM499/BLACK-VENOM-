@@ -16,7 +16,7 @@
 🌟<b>𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗 𝗩𝗜𝗔 𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘👇</b>
  
 
-<a href='https://democratic-sharity-pavi-49f33087.koyeb.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://replit.com/@dimanshaakindu/Zyronix-PairCode#mzn-pair.sh' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 
 🌟<b>𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗 𝗩𝗜𝗔 𝗣𝗔𝗜𝗥 𝗖𝗢𝗗𝗘👇</b>
